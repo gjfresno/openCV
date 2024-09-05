@@ -1,5 +1,3 @@
-¡Hola! Estoy bien, gracias. Puedo ayudarte a crear el `README.md` para tu repositorio de OpenCV. A continuación te paso una versión inicial que puedes adaptar según lo que necesites.
-
 ```markdown
 # OpenCV Repository
 
@@ -105,9 +103,3 @@ Compila OpenCV:
 
 The `Presentaciones` folder includes a presentation titled **"NerdTalk - OpenCV"**, which provides a brief summary of OpenCV's capabilities and use cases. You can open it using any software that supports PowerPoint files.
 
----
-
-Feel free to explore the code and modify the examples to suit your needs!
-```
-
-¿Qué te parece? ¿Te gustaría añadir o modificar algo?
